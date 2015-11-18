@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple To-Do List</string>
+    <string name="add_to_list_label">Add a new item</string>
+    <string name="add_label">Add Item</string>
+    <string name="save_item_label">Save</string>
+    <string name="edit_item_label">Edit Item Below:</string>
+    <string name="title_activity_edit_item">Edit Item</string>
+</resources>
